@@ -5,7 +5,7 @@
 A simple and responsive calculator built using **HTML, CSS, and JavaScript**. This project provides a user-friendly interface with basic arithmetic operations.
 
 ## 🚀 Live Demo
-🔗 [Click here to try the Calculator](my-js-calc-09.netlify.app)
+🔗 [Click here to try the Calculator](https://my-js-calc-09.netlify.app/)
 
 ---
 
